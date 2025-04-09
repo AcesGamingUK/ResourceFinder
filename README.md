@@ -10,9 +10,6 @@
 - **Locate Resource Nodes**: Quickly locate resources like **copper**, **carrot**, **tin**, and more.
 - **Locate Items in Storage**: Search containers for specific items in nearby storage.
 - **Map Pins**: Display resource pins on the minimap.
-- **Floating World Markers**: Display floating text markers for resources found.
-- **Customizable**: Toggle map pins and floating markers via config file.
-
 ---
 
 ## 🕹️ Console Commands
